@@ -760,6 +760,21 @@ section {
   background: #fff;
 }
 
+.service-button{
+  border: 1px solid #006838;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px; 
+}
+
+.service-button:hover{
+  border: 1px solid #fff;
+  background-color: #015a30;
+  color: #fff !important;
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
