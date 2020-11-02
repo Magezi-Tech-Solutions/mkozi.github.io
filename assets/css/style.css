@@ -37,9 +37,10 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
+  background: #fff;
   background: linear-gradient(-45deg, #015a30, #006838, #dbdbdbbb, #f0f0f0b7);
   background-size: 400% 400%;
-  animation: gradient 10s ease infinite;
+  animation: gradient 8s ease infinite;
 }
 
 #preloader .frame{
